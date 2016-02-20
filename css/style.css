@@ -1,0 +1,47 @@
+table {
+	border: 5px solid black;
+	border-collapse: collapse;
+}
+table tr {
+	height: 60px;
+}
+table tr td {
+	width: 55px;
+	border: 8px solid black;
+}
+.twelve {
+	width: 110px;
+}
+
+.three, .six, .fourteen {
+	background-color: yellow;
+}
+.five {
+	background-color: red;
+}
+.ten {
+	background-color: #212121;
+	border-right-width: 4px;
+	border-bottom-width: 4px;
+}
+.eleven {
+	background-color: #212121;
+	border-left-width: 4px;
+	border-bottom-width: 4px;
+}
+.fifteen {
+	background-color: #212121;
+	border-top-width: 4px;
+	border-right-width: 4px;
+}
+.sixteen {
+	background-color: #212121;
+	border-left-width: 4px;
+	border-top-width: 4px;
+}
+.eighteen {
+	background-color: blue;
+}
+.twenty {
+	background-color: #212121;
+}
